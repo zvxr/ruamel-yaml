@@ -6,7 +6,7 @@ if False:  # MYPY
     from typing import Dict, Any  # NOQA
 
 _package_data = dict(
-    full_package_name='ruamel.yaml',
+    full_package_name='ruamel_yaml',
     version_info=(0, 15, 97),
     __version__='0.15.97',
     author='Anthon van der Neut',
